@@ -13,7 +13,7 @@ class ProfileInfo:
         self.mainlang = "C# and Lua"
         
     def site():
-        return "https://lunah.online"
+        return "No Site :("
         
 ```
 
