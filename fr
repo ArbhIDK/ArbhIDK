@@ -1,0 +1,1 @@
+javascript:(function(){function removeAdsBlockerMessage(){var e=document.getElementById('adsblocker_detected');if(e){e.remove();}}setTimeout(removeAdsBlockerMessage,3000);})();
