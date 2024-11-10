@@ -10,7 +10,7 @@ class ProfileInfo:
         self.location = "Poland"
         self.hobby = "Coding & Development"
         self.discord = "@Bredzio"
-        self.mainlang = "C# and Lua"
+        self.mainlang = "C# & JavaScript And TypeScript"
         
     def site():
         return "No Site :("
